@@ -1,0 +1,7 @@
+{
+  "name": "VAANI AI",
+  "description": "A conversational AI assistant for local artisans to help with product marketing, content creation, and catalog management. Features include multimodal input (text, voice, image), image enhancement, QR code generation, and multilingual support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
